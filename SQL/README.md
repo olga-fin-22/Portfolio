@@ -1,5 +1,5 @@
 # Анализ базы данных с помощью SQL
-[.ipynb](https://github.com/olga-fin-22/Portfolio/blob/main/SQL/SQL%20.ipynb)
+[.ipynb](https://github.com/olga-fin-22/yandex_practicum/blob/main/SQL/SQL%20.ipynb)
 
 # Описание проекта
 Проанализивать базу данных, чтобы в дальнейшем сформулировать ценностное предложение для нового продукта.
